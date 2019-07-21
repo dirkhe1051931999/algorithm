@@ -1,2 +1,34 @@
-# algorithm-learning
-Road of Data Structures and Algorithms for me
+# 我的数据结构和算法之路
+
+![](./static/pic.jpg)
+
+## WWH
+
+- **What**
+
+1. 重学数据结构与算法
+2. 手写 javascript 代码
+3. LeetCode 之旅
+
+- **Why**
+
+1. 大学有学习过数据与结构与算法，在现在看来，学的只是皮毛，现在重拾起来，继续前进
+2. for 面试，for 进阶，for 职业
+3. 看看自己到底还有多少潜能，死磕自己
+
+- **How**
+
+1. 第一阶段，重新熟悉下常见数据结构
+2. 第二阶段，死磕数据结构与算法
+3. 第三阶段，手写 javascript 代码
+4. 第四阶段，LeetCode 之旅
+5. 四个阶段不分先后顺序，会有交叉
+
+## STEP
+
+- **阶段一**
+
+  - [数据结构](./data-structure)
+  - [算法](./algorithm)
+
+## 其他
