@@ -52,6 +52,7 @@
       5. [划分型动态规划](./algorithm/md/10.md)
       6. [博弈型动态规划](./algorithm/md/11.md)
       7. [背包型动态规划](./algorithm/md/12.md)
+      7. [区间型动态规划](./algorithm/md/13.md)
     - 回溯算法
     - 穷举法
 
