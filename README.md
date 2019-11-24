@@ -56,6 +56,6 @@
     - 回溯算法
     - 穷举法
 
-- **[阶段二](./handwriting)**
+- **[阶段二：手写 javascript 代码](./handwriting)**
 
 - **[阶段三：LeetCode](./leetcode)**
